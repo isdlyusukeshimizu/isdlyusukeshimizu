@@ -1,4 +1,4 @@
-
+![gitartwork](gitartwork.svg)
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=isdlyusukeshimizu&theme=dark" alt="GitHub Stats" />

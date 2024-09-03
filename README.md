@@ -3,5 +3,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isdlyusukeshimizu&layout=compact&theme=radical" alt="Most Used Languages" />
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username={名前}&theme=onedark&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=isdlyusukeshimizu&theme=onedark&column=7
+)](https://github.com/isdlyusukeshimizu/github-profile-trophy)

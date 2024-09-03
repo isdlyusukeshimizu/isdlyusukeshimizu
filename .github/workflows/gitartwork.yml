@@ -14,5 +14,5 @@
             # Use this username's contribution graph  
             user_name: YUSUKE
             # Text on contribution graph 
-            text: Yusuke
+            text: YUSUKE
        - uses: jasineri/simple-push-action@v1
